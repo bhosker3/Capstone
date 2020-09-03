@@ -1,2 +1,2 @@
 # Capstone
-CC Capstone 2020
+Champlain College - Capstone 2020
