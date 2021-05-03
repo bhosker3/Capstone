@@ -1,2 +1,2 @@
 # Capstone
-Champlain College - Capstone 2020
+Please see our Capstone Wiki page to learn more!
